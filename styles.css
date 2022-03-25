@@ -1,0 +1,108 @@
+/* HTML ELEMENTS */
+
+html {
+    text-align: center;
+}
+
+body {
+    background-color: #EFFFFD;
+}
+
+p, h1, h2, h3, h4 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300 bold;
+}
+
+
+/* NAVBAR */
+.nav-item {
+    padding-left: 15px;
+    text-align: left;
+}
+
+#home {
+    text-align: center;
+    padding: 200px 10px;
+    font-weight: 300 bold;
+    color: #8f8f8f;
+}
+
+/* IMAGES */
+.coding-img {
+    width: 200px;
+    border-radius: 200px;
+}
+
+.kid-img {
+    border-radius: 200px;
+    width: 400px;
+}
+
+/* ABOUT ME */
+#about-me {
+    padding: 180px 0;
+    text-align: center;
+    color: white;
+    background-color: #39AEA9;
+}
+
+#about-me h1 {
+    color: white;
+}
+
+.about-me-texts {
+    line-height: 30px;
+    padding: 20px;
+    text-align: left;
+}
+
+.text-headings {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 45px;
+    font-weight: bolder;
+    color: #39AEA9;
+}
+
+/* BLOGS */
+
+#blogs {
+    background-color: #EFFFFD;
+    color: #8f8f8f;
+}
+
+.blogs-images {
+    border-radius: 200px;
+    width: 250px;
+    transform: rotate(270deg);
+}
+
+
+.echo-img {
+    width: 450px;
+    padding-top: 20px;
+    border-radius: 30px;
+
+}
+
+/* SOCIALS */
+#socials {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 180px 0;
+    color: #39AEA9;
+}
+
+
+.social-img {
+    width: 350px;
+    border-radius: 200px;
+    padding: 50px 0;
+}
+
+.social-media {
+    padding: 50px 10px;
+}
+
+.img-logo {
+    width: 25px;
+}
